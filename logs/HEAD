@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 5d73e8ed9b622a9fc786f6ab25707a90d565d306 TuturNugroho <tuturngr02@gmail.com> 1633573449 +0700	commit (initial): Initial Project
+5d73e8ed9b622a9fc786f6ab25707a90d565d306 0000000000000000000000000000000000000000 TuturNugroho <tuturngr02@gmail.com> 1633574250 +0700	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 5d73e8ed9b622a9fc786f6ab25707a90d565d306 TuturNugroho <tuturngr02@gmail.com> 1633574250 +0700	Branch: renamed refs/heads/master to refs/heads/main
+5d73e8ed9b622a9fc786f6ab25707a90d565d306 3816685547834b17b662cfba70bd1f8d7652ba2d TuturNugroho <tuturngr02@gmail.com> 1633574391 +0700	pull --rebase origin main (start): checkout 3816685547834b17b662cfba70bd1f8d7652ba2d
+3816685547834b17b662cfba70bd1f8d7652ba2d 334592c8e94accdf900fdfa32c27ffb04973de0c TuturNugroho <tuturngr02@gmail.com> 1633574773 +0700	commit: initial project
